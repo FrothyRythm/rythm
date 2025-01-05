@@ -1,0 +1,2 @@
+# rythm
+setting up git
